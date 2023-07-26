@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rounded TabLayout Demo</string>
+    <string name="tab_laporan_title_1">Pemasukan</string>
+    <string name="tab_laporan_title_2">Penjualan</string>
+    <string-array name="tab_laporan_title">
+        <item>@string/tab_laporan_title_1</item>
+        <item>@string/tab_laporan_title_2</item>
+    </string-array>
+</resources>
